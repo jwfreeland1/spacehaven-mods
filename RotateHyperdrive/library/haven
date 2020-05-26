@@ -1,0 +1,102 @@
+<data>
+    <Element>
+        <me _name="Hyperdrive" alternateY="false" costGroup="0" ec="7" mid="851" nonSymmetrical="false" offsetRot="R0">
+			<data />
+			<linked>
+				<l damageGroup="0" eid="1" gridOffX="1" gridOffY="5" id="1699" layer="0" rot="R90" />
+				<l damageGroup="0" eid="2" gridOffX="2" gridOffY="5" id="1699" layer="0" rot="R270" />
+				<l damageGroup="0" eid="3" gridOffX="1" gridOffY="4" id="1698" layer="0" rot="R90" />
+				<l damageGroup="0" eid="4" gridOffX="2" gridOffY="4" id="1710" layer="0" rot="R270">
+					<rep>
+						<r target="0:Standby:0" with="1702:9:4" />
+					</rep>
+				</l>
+				<l damageGroup="0" eid="5" gridOffX="1" gridOffY="3" id="1700" layer="0" rot="R90" />
+				<l damageGroup="0" eid="6" gridOffX="2" gridOffY="3" id="1703" layer="0" rot="R90" />
+				<l damageGroup="0" eid="9" gridOffX="3" gridOffY="4" id="69" layer="0" rot="R90" />
+				<l damageGroup="0" eid="10" gridOffX="0" gridOffY="3" id="1701" layer="0" rot="R90" />
+				<l damageGroup="0" eid="11" gridOffX="3" gridOffY="3" id="1704" layer="0" rot="R90" />
+				<l damageGroup="0" eid="16" gridOffX="0" gridOffY="0" id="1709" layer="0" rot="R0" />
+				<l damageGroup="0" eid="17" gridOffX="2" gridOffY="0" id="1709" layer="0" rot="R0" />
+				<l damageGroup="0" eid="6" gridOffX="1" gridOffY="4" id="1716" layer="0" rot="R0" />
+				<l damageGroup="0" eid="7" gridOffX="3" gridOffY="4" id="1722" layer="0" rot="R180" />
+			</linked>
+			<events />
+			<objectInfo buildInstant="false" debugOnly="false" disableAirlockTest="false" disableBuildTest="false" disableRotation="false" placeInMenu="0" systemPoints="0" viewMode="Normal">
+				<cu>
+					<groups>
+						<l buildTools="0" rep="868">
+							<customPrice>
+								<l elementId="1759" howMuch="4" />
+							</customPrice>
+						</l>
+						<l buildTools="50" rep="867">
+							<customPrice>
+								<l elementId="930" howMuch="2" />
+								<l elementId="162" howMuch="2" />
+							</customPrice>
+						</l>
+					</groups>
+				</cu>
+				<name tid="267" />
+				<desc tid="496" />
+				<guiIcon aid="build_icon_2123" />
+				<subCat id="1756" />
+				<restrictions>
+					<l gridX="-2" gridY="-12" sizeX="8" sizeY="12" type="Space" />
+					<l gridX="0" gridY="4" sizeX="1" sizeY="2" type="Floor" />
+					<l gridX="3" gridY="5" sizeX="1" sizeY="1" type="Floor" />
+				</restrictions>
+				<difficultyLevel level="6" skill="Construction" />
+			</objectInfo>
+		</me>
+		<me _name="Hyperdrive" alternateY="false" costGroup="0" ec="7" mid="2123" nonSymmetrical="false" offsetRot="R0">
+			<data />
+			<linked>
+				<l damageGroup="0" eid="1" gridOffX="1" gridOffY="5" id="1699" layer="0" rot="R90" />
+				<l damageGroup="0" eid="2" gridOffX="2" gridOffY="5" id="1699" layer="0" rot="R270" />
+				<l damageGroup="0" eid="3" gridOffX="1" gridOffY="4" id="1698" layer="0" rot="R90" />
+				<l damageGroup="0" eid="4" gridOffX="2" gridOffY="4" id="2124" layer="0" rot="R270">
+					<rep>
+						<r target="0:Standby:0" with="1702:9:4" />
+					</rep>
+				</l>
+				<l damageGroup="0" eid="5" gridOffX="1" gridOffY="3" id="1700" layer="0" rot="R90" />
+				<l damageGroup="0" eid="6" gridOffX="2" gridOffY="3" id="1703" layer="0" rot="R90" />
+				<l damageGroup="0" eid="10" gridOffX="0" gridOffY="3" id="1701" layer="0" rot="R90" />
+				<l damageGroup="0" eid="11" gridOffX="3" gridOffY="3" id="1704" layer="0" rot="R90" />
+				<l damageGroup="0" eid="16" gridOffX="0" gridOffY="0" id="1709" layer="0" rot="R0" />
+				<l damageGroup="0" eid="17" gridOffX="2" gridOffY="0" id="1709" layer="0" rot="R0" />
+				<l damageGroup="0" eid="6" gridOffX="1" gridOffY="4" id="1716" layer="0" rot="R0" />
+			</linked>
+			<events />
+			<objectInfo buildInstant="false" debugOnly="false" disableAirlockTest="false" disableBuildTest="false" disableRotation="false" placeInMenu="6" systemPoints="0" viewMode="Normal">
+				<cu>
+					<groups>
+						<l buildTools="0" rep="868">
+							<customPrice>
+								<l elementId="1759" howMuch="4" />
+							</customPrice>
+						</l>
+						<l buildTools="50" rep="867">
+							<customPrice>
+								<l elementId="930" howMuch="2" />
+								<l elementId="162" howMuch="2" />
+							</customPrice>
+						</l>
+					</groups>
+				</cu>
+				<name tid="267" />
+				<desc tid="496" />
+				<guiIcon aid="build_icon_2123" />
+				<subCat id="1519" />
+				<restrictions>
+					<l gridX="-2" gridY="-12" sizeX="8" sizeY="12" type="Space" />
+					<l gridX="0" gridY="4" sizeX="1" sizeY="2" type="Floor" />
+					<l gridX="3" gridY="4" sizeX="1" sizeY="2" type="Floor" />
+				</restrictions>
+				<difficultyLevel level="6" skill="Construction" />
+			</objectInfo>
+		</me>
+    </Element>
+</data>

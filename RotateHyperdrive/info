@@ -1,0 +1,8 @@
+<mod>
+  <name>Rotate Hyperdrive</name>
+  <description>Unlock the ability to rotate the Hyperdrive. Be free you beautiful bird!</description>
+  <minimumLoaderVersion>0.0.2</minimumLoaderVersion>
+  <gameVersions>
+    <v>0.4.1</v>
+  </gameVersions>
+</mod>
