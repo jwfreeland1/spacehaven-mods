@@ -3,4 +3,4 @@ Just some small mods for [Space Haven](https://store.steampowered.com/app/979110
 
 
 ## Mods
-**Rotate Hyperdrive:** Unlocks the ability to rotate the hyperdrive. I haven't really tested this so use at your own risk.
+[**Rotate Hyperdrive:**](RotateHyperdrive/./) Unlocks the ability to rotate the hyperdrive. I haven't really tested this so use at your own risk.
